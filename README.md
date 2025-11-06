@@ -4,7 +4,7 @@ Data Engineer / Analyst at [CyberAgent](https://www.cyberagent.co.jp/), working 
 
 ---
 
-### 📊 GitHub Stats (All-time + Private)
+### 📊 GitHub Stats
 <!-- vercel の一時エラー対策で v と cache_seconds を付与 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sho-choma-tech&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400&v=2)
 

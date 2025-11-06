@@ -4,9 +4,12 @@ Data Engineer / Analyst at [CyberAgent](https://www.cyberagent.co.jp/), working 
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sho-choma-tech&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho-choma-tech&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats (All-time + Private)
+<!-- vercel の一時エラー対策で v と cache_seconds を付与 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sho-choma-tech&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400&v=2)
+
+<!-- フォーク/教材系でC比率が上がるのを抑制 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sho-choma-tech&layout=compact&exclude_repo=kagglebook,signate-studentcup2019&hide=c&theme=tokyonight&cache_seconds=86400&v=2)
 
 ---
 

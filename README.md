@@ -46,15 +46,14 @@ class ShoChoma:
 ## 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,docker,mysql,postgres,gcp,git,github,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,r,aws,gcp,terraform,docker,mysql,postgres,git,github,vscode&theme=dark" alt="skills" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="bigquery" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="airflow" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 </p>
 
 ---

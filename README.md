@@ -33,12 +33,13 @@ class ShoChoma:
         self.role     = "Data Analyst / Data Engineer"
         self.company  = "CyberAgent"
         self.location = "Shibuya, Tokyo 🗼"
-        self.focus    = ["Analytics", "Modeling", "Data Platform"]
-        self.langs    = ["Python", "R", "SQL"]
+        self.focus    = ["Data Pipelines", "ELT / dbt", "Data Platform"]
+        self.langs    = ["Python", "SQL", "R"]
+        self.stack    = ["Airflow", "dbt", "BigQuery", "Snowflake"]
         self.mood     = "😄 I'm happy"
 
     def daily(self):
-        return "turn data into decisions 📊"
+        return "build reliable data pipelines 🔧📊"
 ```
 
 ---

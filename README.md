@@ -10,11 +10,16 @@
   </a>
 </p>
 
-<!-- ===================== PROFILE VIEWS + SOCIAL ===================== -->
+<!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sho-choma-tech&label=Profile%20views&color=2f80ed&style=flat-square" alt="views" />
+  <a href="https://github.com/sho-choma-tech?tab=followers">
+    <img src="https://img.shields.io/github/followers/sho-choma-tech?label=Followers&style=for-the-badge&color=2f80ed&labelColor=1a1b27&logo=github" alt="followers" />
+  </a>
+  <a href="https://github.com/sho-choma-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Repos&style=for-the-badge&color=9b59b6&labelColor=1a1b27&query=public_repos&url=https://api.github.com/users/sho-choma-tech" alt="repos" />
+  </a>
   <a href="https://github.com/sho-choma-tech">
-    <img src="https://img.shields.io/github/followers/sho-choma-tech?label=Followers&style=flat-square&color=9b59b6" alt="followers" />
+    <img src="https://img.shields.io/badge/Location-Shibuya%2C%20Tokyo-2f80ed?style=for-the-badge&labelColor=1a1b27&logo=googlemaps&logoColor=white" alt="location" />
   </a>
 </p>
 

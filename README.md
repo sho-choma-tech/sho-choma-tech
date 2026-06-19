@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/sho-choma-tech">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:9b59b6&height=200&section=header&text=sho%20choma&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%2F%20ML%20Engineer%20%40%20CyberAgent&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:9b59b6&height=200&section=header&text=sho%20choma&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%2F%20Data%20Engineer%20%40%20CyberAgent&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <!-- ===================== TYPING SVG ===================== -->
@@ -30,7 +30,7 @@
 ```python
 class ShoChoma:
     def __init__(self):
-        self.role     = "Data Analyst / ML Engineer"
+        self.role     = "Data Analyst / Data Engineer"
         self.company  = "CyberAgent"
         self.location = "Shibuya, Tokyo 🗼"
         self.focus    = ["Analytics", "Modeling", "Data Platform"]
@@ -61,13 +61,15 @@ class ShoChoma:
 
 ## 📊 GitHub Stats
 
+<p align="center"><b>🔥 Committing every day — consistency over hype</b></p>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sho-choma-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=9b59b6&theme=tokyonight" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho-choma-tech&layout=compact&langs_count=8&hide_border=true&title_color=2f80ed&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sho-choma-tech&hide_border=true&background=1a1b27&ring=2f80ed&fire=9b59b6&currStreakLabel=2f80ed&stroke=9b59b6&dates=8b949e" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sho-choma-tech&hide_border=true&background=1a1b27&ring=2f80ed&fire=9b59b6&currStreakLabel=2f80ed" alt="streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sho-choma-tech&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=2f80ed&icon_color=9b59b6&theme=tokyonight" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho-choma-tech&layout=compact&langs_count=8&hide_border=true&title_color=2f80ed&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">

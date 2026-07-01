@@ -19,8 +19,8 @@ jobs:
       - name: Top languages
         uses: lowlighter/metrics@latest
         with:
-          # 公開リポジトリの集計にはGITHUB_TOKENで十分
-          token: ${{ github.token }}
+          # PAT(secrets.METRICS_TOKEN)があれば全リポジトリを集計。無ければfallback
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: sho-choma-tech
           filename: github-metrics-languages.svg
           # 言語プラグインだけを描画

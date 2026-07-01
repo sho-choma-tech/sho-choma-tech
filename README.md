@@ -24,6 +24,7 @@ Data Analyst / ML Engineer at **CyberAgent**. Working mainly with Python and R t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sho-choma-tech&theme=default&hide_border=true" alt="streak" />
 </p>
 
+<!-- GitHub Actions (lowlighter/metrics) が生成・コミットするSVG。Vercelに依存しないので落ちない -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho-choma-tech&layout=compact&langs_count=8&hide_border=true&title_color=2f80ed" alt="top languages" />
+  <img src="./github-metrics-languages.svg" alt="top languages" />
 </p>
